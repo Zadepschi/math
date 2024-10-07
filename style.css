@@ -204,9 +204,7 @@ label:hover {
         label {
             width: 270px;
         }
-        .btnAgain {
-            width: 30%;
-        }
+      
         .footer {
             font-size: 16px;
           }
@@ -239,7 +237,6 @@ label:hover {
       }
       .btnAgain {
         font-size: 22px;
-        width: 25%;
       }
     }
     @media all and (max-width: 480px) {
@@ -255,9 +252,7 @@ label:hover {
           .btn {
             font-size: 18px;
           }
-          .btnAgain {
-            font-size: 20px;
-          }
+        
           .footer {
             font-size: 14px;
           }
